@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\bin\Debug\T.BelahKetupat.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\bin\Debug\T.BelahKetupat.exe
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\bin\Debug\T.BelahKetupat.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\bin\Debug\T.BelahKetupat.xml
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.exe
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.xml
+c:\users\user\documents\visual studio 2015\Projects\T.BelahKetupat\T.BelahKetupat\obj\Debug\T.BelahKetupat.pdb

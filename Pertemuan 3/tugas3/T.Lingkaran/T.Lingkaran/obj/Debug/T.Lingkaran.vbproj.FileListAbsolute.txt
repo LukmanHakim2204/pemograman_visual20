@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\bin\Debug\T.Lingkaran.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\bin\Debug\T.Lingkaran.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\bin\Debug\T.Lingkaran.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\bin\Debug\T.Lingkaran.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Lingkaran\T.Lingkaran\obj\Debug\T.Lingkaran.pdb

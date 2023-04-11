@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.pdb

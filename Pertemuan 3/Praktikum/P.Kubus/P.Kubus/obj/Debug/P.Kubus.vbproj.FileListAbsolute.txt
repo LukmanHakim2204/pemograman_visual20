@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\bin\Debug\P.Kubus.exe.config
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\bin\Debug\P.Kubus.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\bin\Debug\P.Kubus.pdb
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\bin\Debug\P.Kubus.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Kubus\P.Kubus\obj\Debug\P.Kubus.pdb

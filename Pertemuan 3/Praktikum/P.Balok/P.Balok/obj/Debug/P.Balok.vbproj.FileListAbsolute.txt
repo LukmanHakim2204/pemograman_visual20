@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\bin\Debug\P.Balok.exe.config
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\bin\Debug\P.Balok.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\bin\Debug\P.Balok.pdb
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\bin\Debug\P.Balok.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Balok\P.Balok\obj\Debug\P.Balok.pdb

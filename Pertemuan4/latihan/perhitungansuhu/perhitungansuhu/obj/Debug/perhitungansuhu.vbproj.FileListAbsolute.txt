@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe.config
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.exe
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.pdb
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\bin\Debug\perhitungansuhu.xml
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.exe
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.xml
+c:\users\user\documents\visual studio 2015\Projects\perhitungansuhu\perhitungansuhu\obj\Debug\perhitungansuhu.pdb

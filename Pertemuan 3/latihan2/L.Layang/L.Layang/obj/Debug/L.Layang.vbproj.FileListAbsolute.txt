@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\bin\Debug\L.Layang.exe.config
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\bin\Debug\L.Layang.exe
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\bin\Debug\L.Layang.pdb
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\bin\Debug\L.Layang.xml
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.exe
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.xml
+c:\users\user\documents\visual studio 2015\Projects\L.Layang\L.Layang\obj\Debug\L.Layang.pdb

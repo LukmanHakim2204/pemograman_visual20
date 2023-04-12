@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\bin\Debug\koversiFahrenheit.exe.config
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\bin\Debug\koversiFahrenheit.exe
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\bin\Debug\koversiFahrenheit.pdb
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\bin\Debug\koversiFahrenheit.xml
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.exe
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.xml
+c:\users\user\documents\visual studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\koversiFahrenheit\koversiFahrenheit\obj\Debug\koversiFahrenheit.vbprojResolveAssemblyReference.cache

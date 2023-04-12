@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\LPersegi\LPersegi\bin\Debug\LPersegi.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\bin\Debug\LPersegi.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\bin\Debug\LPersegi.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\bin\Debug\LPersegi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\LPersegi\LPersegi\obj\Debug\LPersegi.pdb

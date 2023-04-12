@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.xml
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.exe
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.pdb
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.xml
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.exe
+c:\users\user\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.pdb

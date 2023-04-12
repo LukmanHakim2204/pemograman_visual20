@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\bin\Debug\KonversiReamur.exe.config
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\bin\Debug\KonversiReamur.exe
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\bin\Debug\KonversiReamur.pdb
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\bin\Debug\KonversiReamur.xml
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.exe
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.xml
+c:\users\user\documents\visual studio 2015\Projects\KonversiReamur\KonversiReamur\obj\Debug\KonversiReamur.pdb

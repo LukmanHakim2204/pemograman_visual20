@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\bin\Debug\konversikelvin.exe.config
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\bin\Debug\konversikelvin.exe
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\bin\Debug\konversikelvin.pdb
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\bin\Debug\konversikelvin.xml
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.exe
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.xml
+c:\users\user\documents\visual studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\konversikelvin\konversikelvin\obj\Debug\konversikelvin.vbprojResolveAssemblyReference.cache

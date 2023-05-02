@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\bin\Debug\tugas6_Pembelian.exe.config
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.xml
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\bin\Debug\tugas6_Pembelian.exe
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\bin\Debug\tugas6_Pembelian.pdb
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\bin\Debug\tugas6_Pembelian.xml
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.exe
+c:\users\user\documents\visual studio 2015\Projects\tugas6_Pembelian\tugas6_Pembelian\obj\Debug\tugas6_Pembelian.pdb

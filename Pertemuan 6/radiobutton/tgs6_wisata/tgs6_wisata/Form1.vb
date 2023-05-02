@@ -13,6 +13,6 @@
         End If
 
         'Tampilkan harga tiket
-        txtHargaT.Text = harga.ToString '
+        txtHargaT.Text = harga.ToString 
     End Sub
 End Class

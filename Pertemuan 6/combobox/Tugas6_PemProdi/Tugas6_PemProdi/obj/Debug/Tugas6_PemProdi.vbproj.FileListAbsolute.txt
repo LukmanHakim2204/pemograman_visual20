@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\bin\Debug\Tugas6_PemProdi.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\bin\Debug\Tugas6_PemProdi.exe
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\bin\Debug\Tugas6_PemProdi.pdb
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\bin\Debug\Tugas6_PemProdi.xml
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.exe
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.xml
+c:\users\user\documents\visual studio 2015\Projects\Tugas6_PemProdi\Tugas6_PemProdi\obj\Debug\Tugas6_PemProdi.pdb

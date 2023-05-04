@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\bin\Debug\Latihan7_AppMenu.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\bin\Debug\Latihan7_AppMenu.exe
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\bin\Debug\Latihan7_AppMenu.pdb
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\bin\Debug\Latihan7_AppMenu.xml
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.Form3.resources
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.exe
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.xml
+c:\users\user\documents\visual studio 2015\Projects\Latihan7_AppMenu\Latihan7_AppMenu\obj\Debug\Latihan7_AppMenu.pdb

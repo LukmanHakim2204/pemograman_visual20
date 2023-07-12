@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.pdb
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.pdb
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.pdb
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.exe.config
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.exe
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.xml
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.pdb
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.exe
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.pdb
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Pasien_Client_API.xml
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.dll
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.pdb
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\bin\Debug\Newtonsoft.Json.xml
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.vbprojResolveAssemblyReference.cache
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.Form1.resources
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.Resources.resources
+D:\UMC\SEMESTER 6\VISUAL\P14\Pasien_Client_API\Pasien_Client_API\obj\Debug\Pasien_Client_API.vbproj.GenerateResource.Cache
